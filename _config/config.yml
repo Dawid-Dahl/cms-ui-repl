@@ -1,0 +1,3 @@
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_javascript:
+    - "dawid-dahl/cms-ui-repl:client/dist/js/bundle.js"
